@@ -37,7 +37,7 @@ The dataset used for this task is the **HTRU2 dataset**, which involves classify
 
 ### Convergence Graph for the Fold with Maximum Accuracy
 
-<> ![Convergence Graph](image/convergence_graph.png)
+< ![Convergence Graph](image/convergence_graph.png)>
 
 ## Conclusion
 
@@ -58,5 +58,4 @@ The dataset used for this task is the **HTRU2 dataset**, which involves classify
 ## License
 
 This project is licensed under the MIT License.
-"""
 
