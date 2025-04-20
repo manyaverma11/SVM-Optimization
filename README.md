@@ -33,11 +33,11 @@ The dataset used for this task is the **HTRU2 dataset**, which involves classify
 
 ### Best Parameters for Each Sample (Fold)
 
-{results_df.to_markdown(index=False)}
+![Comparative Performance](image/comparative_performance.png)
 
 ### Convergence Graph for the Fold with Maximum Accuracy
 
-< ![Convergence Graph](image/convergence_graph.png)>
+ ![Convergence Graph](image/convergence_graph.png)
 
 ## Conclusion
 
