@@ -27,7 +27,7 @@ The dataset used for this task is the **HTRU2 dataset**, which involves classify
 
 ### 4. **Convergence Graph**
    - For the fold with the highest accuracy, a **convergence graph** is generated. This graph tracks the **accuracy over 100 iterations** to show how the model improves as it trains.
-   - The graph is saved as an image and is included in the **README.md**.
+   
 
 ## Results
 
