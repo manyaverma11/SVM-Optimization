@@ -45,16 +45,6 @@ The dataset used for this task is the **HTRU2 dataset**, which involves classify
 - The **convergence graph** shows that the model’s accuracy improves steadily over 100 iterations for the best fold.
 - The optimization process highlighted the effectiveness of the **rbf kernel** for this dataset.
 
-## Future Work
-
-- Experimenting with more complex feature engineering could further improve the model.
-- Additional techniques like **cross-validation with different metrics** or **ensemble methods** could be explored to improve the robustness of the model.
-
-## Folder Structure
-
-- **image/convergence_graph.png**: The convergence graph for the best fold.
-- **README.md**: This file containing the project details and results.
-
 ## License
 
 This project is licensed under the MIT License.
